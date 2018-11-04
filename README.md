@@ -1,1 +1,1 @@
-Hello Aitschool!
+Hi, Aitschool!
